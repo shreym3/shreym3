@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Shrey Mehndiratta
 - 👀 I’m interested in Web Development
 - 💻 I’m looking to work on building websites and web applications
-- 📩 How to reach me: shreym3@gmail.com
+- 📩 Ping me up for projects or grabbing a cup of coffee: shreym3@gmail.com
 
 <!---
 shreym3/shreym3 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
